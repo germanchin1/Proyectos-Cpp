@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\germanromort\\source\\repos\\Calculadora2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF7392A-2F1E-49B1-A091-9E297BA917B3}|Calculadora2.vcxproj|C:\\Users\\germanromort\\source\\repos\\Calculadora2\\Calculadora2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9EF7392A-2F1E-49B1-A091-9E297BA917B3}|Calculadora2.vcxproj|solutionrelative:Calculadora2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A53D020-C5F0-4663-8675-CBDC25FF703B}|..\\UnitTestCalculator\\UnitTestCalculator.vcxproj|C:\\Users\\germanromort\\source\\repos\\UnitTestCalculator\\UnitTestCalculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculadora2.cpp",
+              "DocumentMoniker": "C:\\Users\\germanromort\\source\\repos\\Calculadora2\\Calculadora2.cpp",
+              "RelativeDocumentMoniker": "Calculadora2.cpp",
+              "ToolTip": "C:\\Users\\germanromort\\source\\repos\\Calculadora2\\Calculadora2.cpp",
+              "RelativeToolTip": "Calculadora2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T09:31:44.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTestCalculator.cpp",
+              "DocumentMoniker": "C:\\Users\\germanromort\\source\\repos\\UnitTestCalculator\\UnitTestCalculator.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTestCalculator\\UnitTestCalculator.cpp",
+              "ToolTip": "C:\\Users\\germanromort\\source\\repos\\UnitTestCalculator\\UnitTestCalculator.cpp",
+              "RelativeToolTip": "..\\UnitTestCalculator\\UnitTestCalculator.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T09:20:00.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
